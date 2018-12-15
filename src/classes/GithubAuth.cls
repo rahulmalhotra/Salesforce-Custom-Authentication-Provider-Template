@@ -101,7 +101,7 @@ global class GithubAuth extends Auth.AuthProviderPluginClass {
         null, 
         userId,
         locale,
-        'GithubAuth',
+        'Github',
         loginURL,
         null
       );
